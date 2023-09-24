@@ -14,7 +14,7 @@ Welcome to Tj's github profile. Feel free to take a look at my repositories or t
 <img  src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png">
 
 
-Connect with me on Linkedin:  [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](www.linkedin.com/in/thejas-krishnan-8286ab5b)
+Connect with me on Linkedin:  [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/thejas-krishnan-8286ab5b)
 
 <!--
 **lmn0/lmn0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
