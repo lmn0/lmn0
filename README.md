@@ -1,5 +1,5 @@
 ### Hi there 👋
-Welcome to Tj's github profile. Feel free to take a look at my repositories or to use any of the components in my repositories in your project(s). 
+Welcome to Tj's github profile. Feel free to take a look at my repositories or to use any of my projects. 
 
 - 🌱 I’m currently learning Terraform
   
