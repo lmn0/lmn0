@@ -1,4 +1,20 @@
 ### Hi there 👋
+Welcome to Tj's github profile. Feel free to take a look at my repositories or to use any of the components in my repositories in your project(s). 
+
+- 🌱 I’m currently learning Terraform
+  
+<img  src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png">
+
+## 📝 My Latest Blogs
+<div> 
+
+<a target="_blank" href="https://github-readme-medium-recent-article-red.vercel.app/medium/@tjskrishna/0"><img src="https://github-readme-medium-recent-article-red.vercel.app/medium/@tjskrishna/0" alt="Recent Article 0"></a>
+
+</div>
+<img  src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png">
+
+
+Connect with me on Linkedin:  [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](www.linkedin.com/in/thejas-krishnan-8286ab5b)
 
 <!--
 **lmn0/lmn0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
