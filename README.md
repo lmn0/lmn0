@@ -9,6 +9,7 @@ Welcome to Tj's github profile. Feel free to take a look at my repositories or t
 <div> 
 
 <a target="_blank" href="https://github-readme-medium-recent-article-red.vercel.app/medium/@tjskrishna/0"><img src="https://github-readme-medium-recent-article-red.vercel.app/medium/@tjskrishna/0" alt="Recent Article 0"></a>
+<a target="_blank" href="https://github-readme-medium-recent-article-red.vercel.app/medium/@tjskrishna/1"><img src="https://github-readme-medium-recent-article-red.vercel.app/medium/@tjskrishna/1" alt="Recent Article 1"></a>
 
 </div>
 <img  src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png">
