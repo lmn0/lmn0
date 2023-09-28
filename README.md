@@ -2,7 +2,7 @@
 Welcome to Tj's github profile. Feel free to take a look at my repositories or to use any of my projects. 
 
 - 🔭 Currently enrolled in [Google Project Management Course](https://www.coursera.org/professional-certificates/google-project-management#courses) 
-- 🌱 I’m also currently learning [Terraform](https://www.udemy.com/course/terraform-beginner-to-advanced/)
+- 🌱 I’m also currently learning [Terraform](https://www.udemy.com/course/terraform-beginner-to-advanced/) and [GraphQL](https://graphql.org/)
   
 <img  src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png">
 
