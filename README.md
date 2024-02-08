@@ -21,8 +21,7 @@ Welcome to Tj's github profile. Feel free to take a look at my repositories or t
 
 ## 📝 My Latest Blogs
 <div> 
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+- [Terraform notes](https://medium.com/@tjskrishna/terraform-notes-8241971dbde7)
 </div>
 
 <img  src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png">
