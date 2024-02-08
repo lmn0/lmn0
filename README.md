@@ -21,8 +21,8 @@ Welcome to Tj's github profile. Feel free to take a look at my repositories or t
 
 ## 📝 My Latest Blogs
 <div> 
-- [Try catch takes up CPU cycle](https://medium.com/@tjskrishna/why-try-catch-takes-up-cpu-cycles-during-execution-4323d47d5a88)
-- [Terraform Notes](https://medium.com/@tjskrishna/terraform-notes-8241971dbde7)
+  - [Try catch takes up CPU cycle](https://medium.com/@tjskrishna/why-try-catch-takes-up-cpu-cycles-during-execution-4323d47d5a88)
+  - [Terraform Notes](https://medium.com/@tjskrishna/terraform-notes-8241971dbde7)
 </div>
 
 <img  src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png">
