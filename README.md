@@ -1,18 +1,30 @@
 ### Hi there 👋
 Welcome to Tj's github profile. Feel free to take a look at my repositories or to use them in your project. 
 
-- 🔭 Currently enrolled in [Google Project Management Course](https://www.coursera.org/professional-certificates/google-project-management#courses) 
-- 🌱 I’m also currently learning [Terraform](https://www.udemy.com/course/terraform-beginner-to-advanced/) and [GraphQL](https://graphql.org/)
+- 🔭 Currently enrolled in [Google Project Management Course](https://www.coursera.org/professional-certificates/google-project-management#courses)
+
+**Technical Learnings**
+- [Linux](https://elixir.bootlin.com/linux/latest/source)
+- [Terraform](https://www.udemy.com/course/terraform-beginner-to-advanced/)
+- [GraphQL](https://graphql.org/)
+- [Kafka](https://kafka.apache.org/)
+- [PostGreSQL](https://www.postgresql.org/)
+- [Cassandra](https://cassandra.apache.org/_/index.html)
+- [MongoDB](https://www.mongodb.com/)
+- [Zookeeper](https://zookeeper.apache.org/)
+- [NGINX](https://www.nginx.com/)
+- [Python](https://www.python.org/)
+- [Go](https://go.dev/)
+- [NodeJS](https://nodejs.org/en)
   
 <img  src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png">
 
 ## 📝 My Latest Blogs
 <div> 
-
-<a target="_blank" href="https://github-readme-medium-recent-article-red.vercel.app/medium/@tjskrishna/0"><img src="https://github-readme-medium-recent-article-red.vercel.app/medium/@tjskrishna/0" alt="Recent Article 0"></a>
-<a target="_blank" href="https://github-readme-medium-recent-article-red.vercel.app/medium/@tjskrishna/1"><img src="https://github-readme-medium-recent-article-red.vercel.app/medium/@tjskrishna/1" alt="Recent Article 1"></a>
-
+- [Try catch takes up CPU cycle](https://medium.com/@tjskrishna/why-try-catch-takes-up-cpu-cycles-during-execution-4323d47d5a88)
+- [Terraform Notes](https://medium.com/@tjskrishna/terraform-notes-8241971dbde7)
 </div>
+
 <img  src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png">
 
 Connect with me on Linkedin:  [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/thejas-krishnan-8286ab5b)
