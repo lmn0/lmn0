@@ -1,8 +1,6 @@
 ### Hi there 👋
 Welcome to Tj's github profile. Feel free to take a look at my repositories or to use them in your project. 
 
-- 🔭 Currently enrolled in [Google Project Management Course](https://www.coursera.org/professional-certificates/google-project-management#courses)
-
 **Technical Learnings**
 - [Linux](https://elixir.bootlin.com/linux/latest/source)
 - [Terraform](https://www.udemy.com/course/terraform-beginner-to-advanced/)
