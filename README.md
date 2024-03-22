@@ -18,6 +18,7 @@ Welcome to Tj's github profile. Feel free to take a look at my repositories or t
 <img  src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png">
 
 ## 📝 My Latest Blogs
+  -  [PostgreSQL notes](https://medium.com/@tjskrishna/postgresql-quick-notes-191a93610f1e)
   -  [Terraform notes](https://medium.com/@tjskrishna/terraform-notes-8241971dbde7)
   -  [Why TRY/CATCH takes up CPU cycles during execution](https://medium.com/@tjskrishna/why-try-catch-takes-up-cpu-cycles-during-execution-4323d47d5a88)
   
