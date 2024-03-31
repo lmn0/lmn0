@@ -19,8 +19,8 @@ Welcome to Tj's github profile. Feel free to take a look at my repositories or t
 
 ## 📝 My Latest Blogs
   -  PostgreSQL Series
-      -  [Terminology and basics] (https://medium.com/@tjskrishna/postgresql-quick-notes-191a93610f1e)
-      -  [PostgreSQL - Admin tools] (https://medium.com/@tjskrishna/postgresql-admin-tools-ec8efc6ebafa)
+      -  [Terminology and basics](https://medium.com/@tjskrishna/postgresql-quick-notes-191a93610f1e)
+      -  [PostgreSQL - Admin tools](https://medium.com/@tjskrishna/postgresql-admin-tools-ec8efc6ebafa)
   -  [Terraform notes](https://medium.com/@tjskrishna/terraform-notes-8241971dbde7)
   -  [Why TRY/CATCH takes up CPU cycles during execution](https://medium.com/@tjskrishna/why-try-catch-takes-up-cpu-cycles-during-execution-4323d47d5a88)
   
