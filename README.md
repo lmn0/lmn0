@@ -18,7 +18,7 @@ Welcome to Tj's github profile. Feel free to take a look at my repositories or t
 <img  src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png">
 
 ## 📝 My Latest Blogs
-  -  [Terraform automation of CICD pipeline setup with Jenkins, Github](https://medium.com/@tjskrishna/terraform-automation-of-cicd-pipeline-setup-with-jenkins-github-85fd6a8d5d77)
+  -  [Terraform automation of CICD pipeline setup with Jenkins](https://medium.com/@tjskrishna/terraform-automation-of-cicd-pipeline-setup-with-jenkins-github-85fd6a8d5d77)
   -  PostgreSQL Series
       -  [Terminology and basics](https://medium.com/@tjskrishna/postgresql-quick-notes-191a93610f1e)
       -  [PostgreSQL - Admin tools](https://medium.com/@tjskrishna/postgresql-admin-tools-ec8efc6ebafa)
