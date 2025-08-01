@@ -1,5 +1,5 @@
 ### Hi there 👋
-Welcome to Tj's github profile. Feel free to take a look at my repositories or to use them in your project. 
+Welcome to Tj's github profile. Feel free to take a look at my repository project. 
 
 **Technical Learnings**
 - [Linux](https://elixir.bootlin.com/linux/latest/source)
