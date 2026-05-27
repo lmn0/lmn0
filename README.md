@@ -25,7 +25,7 @@ Welcome to Tj's github profile. Feel free to take a look at my repository projec
       -  [Vacuuming basics](https://medium.com/@tjskrishna/postgresql-vacuuming-basics-b4d5b8ec8c2d)
   -  [Terraform notes](https://medium.com/@tjskrishna/terraform-notes-8241971dbde7)
   -  [Why TRY/CATCH takes up CPU cycles during execution](https://medium.com/@tjskrishna/why-try-catch-takes-up-cpu-cycles-during-execution-4323d47d5a88)
-
+  -  [On network protocols — OSPF, IS-IS, BGP, PIM, IGMP, MPLS, LDP, RSVP, SR](https://medium.com/@tjskrishna/on-network-protocols-ospf-is-is-bgp-pim-igmp-mpls-ldp-rsvp-sr-84dc8b8d3c6f)
   
 
 <img  src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png">
